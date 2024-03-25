@@ -1,0 +1,1 @@
+((unsigned char)array[i] >> (rand2)) | ((array[i]) << (8 - rand2))

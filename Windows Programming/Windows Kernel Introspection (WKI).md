@@ -1,0 +1,1 @@
+https://amonsec.net/posts/2022/09/0000000d/

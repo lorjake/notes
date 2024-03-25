@@ -1,0 +1,1 @@
+https://gustavshen.medium.com/bypass-amsi-on-windows-11-75d231b2cac6

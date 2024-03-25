@@ -1,0 +1,1 @@
+https://www.coresecurity.com/core-labs/articles/creating-processes-using-system-calls

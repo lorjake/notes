@@ -1,0 +1,1 @@
+https://tbhaxor.com/windows-process-injection-using-asynchronous-threads-queueuserapc/

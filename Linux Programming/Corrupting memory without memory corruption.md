@@ -1,0 +1,1 @@
+https://github.blog/2022-07-27-corrupting-memory-without-memory-corruption/
